@@ -7,7 +7,7 @@ Insertion Sort is a simple sorting algorithm. It is much less efficient on large
 Insertion sort works similar to the way people sort playing cards in your hands. The array is virtually split into a sorted and an usorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
 
 <p align="center">
-  <img src="sorting/insertionSort/assets/insertionsort.png" >
+  <img src="/sorting/insertionSort/assets/insertionsort.png" >
 </p>
 
 ## Algorithm
