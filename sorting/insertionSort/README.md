@@ -2,7 +2,7 @@
 Insertion Sort is a simple sorting algorithm. It is much less efficient on large lists than more advanced algorithms such as quicksort and heapsort. However, insertion sort provides several advantages:
 - Simple
 - Efficient for small data sets
-- And others
+- Etc
 
 Insertion sort works similar to the way people sort playing cards in your hands. The array is virtually split into a sorted and an usorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
 
