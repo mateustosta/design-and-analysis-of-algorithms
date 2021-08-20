@@ -1,5 +1,5 @@
 ## Insertion Sort
-Insertion Sort is a simple sorting algorithm. It is much less efficient on large lists than more advanced algorithms suck as quicksort and heapsort. However, insertion sort provides several advantages:
+Insertion Sort is a simple sorting algorithm. It is much less efficient on large lists than more advanced algorithms such as quicksort and heapsort. However, insertion sort provides several advantages:
 - Simple
 - Efficient for small data sets
 - And others
