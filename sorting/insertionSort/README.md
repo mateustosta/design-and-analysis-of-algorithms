@@ -1,13 +1,8 @@
 ## Insertion Sort
-Insertion Sort is a simple sorting algorithm. It is much less efficient on large lists than more advanced algorithms such as quicksort and heapsort. However, insertion sort provides several advantages:
-- Simple
-- Efficient for small data sets
-- Etc
-
-Insertion sort works similar to the way people sort playing cards in your hands. The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
+Insertion Sort is a sorting by comparison algorithm. This algorithm works similar to the way humans sort playing cards in their hands. Although very simple, this algorithm is not a good choice for large datasets. The time complexity of this algorithm is O(n^2) for the worst case, O(n) for the best case and O(n^2) for the average case. This algorithm is more efficient than most other algorithms that have quadratic time complexity like Selection Sort and Bubble Sort.  
 
 <p align="center">
-  <img src="/sorting/insertionSort/assets/insertionsort.png" >
+  <img width="300" src="https://i.imgur.com/j0Xgclr.gif" alt="Insertion Sort - Example">
 </p>
 
 ## Algorithm
@@ -17,3 +12,8 @@ Insertion sort works similar to the way people sort playing cards in your hands.
 - 4 - Shift all the elements in the sorted sub-list that is greater than the value to be sorted
 - 5 - Insert the value
 - 6 - Repeat until list is sorted
+
+## Performance  
+- Worst-case performance: О(n^2) comparisons and swaps  
+- Best-case performance: O(n) comparisons, O(1) swaps  
+- Average performance: О(n^2) comparisons and swaps  

@@ -5,6 +5,9 @@
 This repository contains the main algorithms developed in the course Design and Analysis of Algorithms at [UFPB](https://www.ufpb.br), oriented by [Professor Bruno Petrato Bruck](http://lattes.cnpq.br/8375218408755980). 
 
 ## Table of Contents
+- [Sorting](https://www.github.com/mateustosta/design-and-analysis-of-algorithms/tree/main/sorting)
+  - [Insertion Sort](https://www.github.com/mateustosta/design-and-analysis-of-algorithms/tree/main/sorting/insertionSort)  
+  - [Selection Sort](https://www.github.com/mateustosta/design-and-analysis-of-algorithms/tree/main/sorting/selectionSort)
 - [References:](#references)
 
 ## References:
