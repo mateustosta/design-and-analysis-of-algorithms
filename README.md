@@ -8,7 +8,7 @@ This repository contains the main algorithms developed in the course Design and 
 - [Sorting](https://www.github.com/mateustosta/design-and-analysis-of-algorithms/tree/main/sorting)
   - [Insertion Sort](https://www.github.com/mateustosta/design-and-analysis-of-algorithms/tree/main/sorting/insertionSort)  
   - [Selection Sort](https://www.github.com/mateustosta/design-and-analysis-of-algorithms/tree/main/sorting/selectionSort)
-- [References:](#references)
+- [References](#references)
 
 ## References:
 - Thomas H. Cormen (2009). Introduction to Algorithms, 3rd Edition (The MIT Press)  
